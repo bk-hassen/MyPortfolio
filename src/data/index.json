@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML CSS JavaScript ReactJS"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "NodeJS ExpessJS MongoDB"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Figma AdobeXD"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Python Git GitHub Postman"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/elearnig.png",
+      "title": "E-Learning Platform",
+      "description": "Designing and developing a learning platform with dedicated interfaces for both students and teachers. Utilizing HTML, CSS, JavaScript, React.js, MongoDB, Express.js, and Node.js (MERN stack) for comprehensive functionality and seamless user experience.",
+      "link_git": "https://github.com/bk-hassen/Elearning_Website",
+      "link_demo":""
+    },
+    {
+      "id": "2",
+      "src": "./img/todo.png",
+      "title": "To Do List Interface",
+      "description": "Development of an interface enabling the addition, modification, and deletion of tasks. Utilizing HTML, CSS, JavaScript, React.js, and Redux Toolkit to facilitate efficient task management and seamless user interaction.",
+      "link_git": "https://github.com/bk-hassen/Todo_Liste",
+      "link_demo":""
+    },
+    {
+      "id": "3",
+      "src": "./img/movie.png",
+      "title": "Movie App Interface",
+      "description": "Development of an interface for displaying, filtering, and adding a movie profile. Utilizing HTML, CSS, JavaScript, and React.js to create a user-friendly platform for managing movie profiles with ease.",
+      "link_git": "https://github.com/bk-hassen/movies_interface",
+      "link_demo":""
+    }
+  ]
+}
